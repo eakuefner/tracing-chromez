@@ -5,17 +5,15 @@
   {"user": "Ethan", "email":"eakuefner@chromium.org"},
   {"user": "Tim", "email":"tdresser@chromium.org"},
   {"user": "Peiyong", "email":"lpy@chromium.org"},
-  {"user": "Fadi", "email":"fmeawad@chromium.org"},
+  {"user": "Fadi", "email":"fmeawad@chromium.org"}
   ],
 "dashes": [
   "cz-clock-dash",
-  "cz-review-latency-dash(true)",
-  "cz-review-load-dash",
-  "cz-calendar-feed-source"
+  "cz-review-load-dash"
 ],
 "timezones": [
-  {"city": "MTV", "timezone": "US/Pacific", "local": "true"},
+  {"city": "MTV", "timezone": "US/Pacific", "local": true},
   {"city": "Waterloo", "timezone": "America/Nipigon"},
-  {"city": "Ann Arbor", "timezone": "America/New_York"},
+  {"city": "Ann Arbor", "timezone": "America/New_York"}
 ]
 }
