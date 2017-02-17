@@ -1,2 +1,2 @@
 # tracing-chromez
-Tracing config for chroemz
+Tracing config for chromez
